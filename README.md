@@ -5,7 +5,7 @@
     >> two scripts written in golang that will help you recognize dependency confusion.    
 ---
 ```
-> to check if the sites have the package.json or __init__.py file:
+> to check if the sites have the package.json or requirements.txt file:
 
   >> ./check -w sites.txt
   
@@ -15,7 +15,7 @@
 ```
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/44043159/135761869-426c7bbf-2fe6-4538-91a8-ccccde1be58e.png" width="500" height"500">
+  <img src="https://user-images.githubusercontent.com/44043159/135767961-fc43ca2f-04f1-43ec-a1eb-d8c58248ac44.png" width="500" height"500">
   <img src="https://user-images.githubusercontent.com/44043159/135765418-580dbb33-3b55-427d-bc40-2234e31b800b.png" width="500" height"500">
 
 </p>
