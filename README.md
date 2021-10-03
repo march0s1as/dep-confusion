@@ -16,8 +16,7 @@
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44043159/135767961-fc43ca2f-04f1-43ec-a1eb-d8c58248ac44.png" width="500" height"500">
-  <img src="https://user-images.githubusercontent.com/44043159/135765418-580dbb33-3b55-427d-bc40-2234e31b800b.png" width="500" height"500">
-
+  <img src="https://user-images.githubusercontent.com/44043159/135768086-3dd610b4-6038-4728-94e9-2ba86c9eda2b.png" width="500" height"500">
 </p>
 
 ```bash
