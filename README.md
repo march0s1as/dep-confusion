@@ -22,8 +22,8 @@
 ```bash
 git clone https://github.com/march0s1as/dep-confusion
 cd dep-confusion
-go get -v github.com/fatih/color
-go build check.go
-go build confusion.go
-enjoy =]
+chmod +x install.sh
+./install.sh
+
+happy hacking!!
 ```
