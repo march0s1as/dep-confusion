@@ -11,7 +11,7 @@
   
 > to check if libs exist externally:
 
-  >> ./confusion -w libs.txt -t TYPE
+  >> ./confusion -w libs.txt -t TYPE (gem, pip or npm)
 ```
 </p>
 <p align="center">
