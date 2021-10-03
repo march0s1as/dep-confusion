@@ -25,5 +25,5 @@ cd dep-confusion
 chmod +x install.sh
 ./install.sh
 
-happy hacking!!
+happy hacking!
 ```
